@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sakiful Ahmed Saiyan and I'm a Data & Business Analyst , from Dhaka, Bangladesh</h2>
+<h2 align="left">Hi 👋! My name is Sakiful Ahmed Saiyan and I'm a Data & Business Analyst from Dhaka, Bangladesh</h2>
 
 ###
 
