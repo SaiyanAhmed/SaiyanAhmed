@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sakiful Ahmed Saiyan and I'm a Data & Business Analyst</h2>
+<h2 align="left">Hi 👋! My name is Sakiful Ahmed Saiyan. An experienced Data & Business Analyst skilled in Power BI, SQL, Python, and Data Automation</h2>
 
 ###
 
