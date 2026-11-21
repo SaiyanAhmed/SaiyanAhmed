@@ -2,9 +2,7 @@
 
 ###
 
-<div align="center">
-  [![Sakiful's GitHub stats](https://github-stats-extended.vercel.app/api?username=SaiyanAhmed)](https://github.com/stats-organization/github-stats-extended)
-</div>
+[![Sakiful's GitHub stats](https://github-stats-extended.vercel.app/api?username=SaiyanAhmed)](https://github.com/stats-organization/github-stats-extended)
 
 ###
 
